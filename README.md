@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChickenKing632
 - 👀 I’m interested in computer science/programming
-- 🌱 I’m currently learning how to make an IP changer (For educational purposes)
-- 💞️ I’m looking to collaborate on a harmful virus (For educational purposes)
+- 🌱 I’m currently learning make anti-viruses (For educational purposes)
+- 💞️ I’m looking to collaborate on a anti-virus (For educational purposes)
 - 📫 How to reach me chickenwithacrown (discord)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: water is not wet XD
